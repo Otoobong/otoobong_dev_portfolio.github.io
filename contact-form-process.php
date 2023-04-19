@@ -1,7 +1,7 @@
 <?php
-if (isset($_POST['Email'])) {
+/*if (isset($_POST['Email'])) {
 
-    // EDIT THE 2 LINES BELOW AS REQUIRED
+    // EDITED THE 2 LINES BELOW AS REQUIRED
     $email_to = "otoobongrgs@gmail.com";
     $email_subject = "New portfolio form submissions";
 
@@ -72,5 +72,5 @@ if (isset($_POST['Email'])) {
     Thank you for contacting Otoobong. He will be in touch with you very soon.
 
 <?php
-}
+}*/
 ?>
